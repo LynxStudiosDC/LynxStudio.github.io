@@ -1,14 +1,14 @@
 module.exports = {
     bot: {
-        token: "MTE4NTMxMzkzMDU2Njk3OTcxNA.GZ_87B.eTU7RXgmte8IacXsTET25J2fRT03n28PVI5rG0",
+        token: "",
         prefix: "-",
         owners: ["812697375667388417"],
         mongourl: ""
     },
 
     website: {
-        "url":"https://lynxstudios.swayzefn2.repl.co/"
-        "callback": "https://lynxstudios.swayzefn2.repl.co/callback",
+        "url":"http://lynxstudios.xyz"
+        "callback": "http://lynxstudios.xyz/callback",
         secret: "q3-hK41NWw5B4y4H74a7AUlv3eKWUUtW",
         clientID: "1185313930566979714",
         tags: [ "Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish" ]    
