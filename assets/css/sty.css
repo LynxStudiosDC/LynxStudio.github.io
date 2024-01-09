@@ -27,6 +27,14 @@ header {
     text-align: center;
 }
 
+button {
+  color: inherit;
+  background: #FFA400;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+}
+
 .product img {
     max-width: 100%;
     height: auto;
