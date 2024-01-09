@@ -1,6 +1,7 @@
 body {
-    background: var(--golden-puppy);
     font-family: Arial, sans-serif;
+    background: hsl(47, 100%, 40%);
+    
 }
 
 header {
