@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background: #a9a9a9;
+    background: #171717;
     padding: 10px 0;
     text-align: center;
 }
@@ -30,7 +30,7 @@ header {
 }
 
 footer {
-    background: #a9a9a9;
+    background: #171717;
     text-align: center;
     padding: 10px 0;
     position: fixed;
