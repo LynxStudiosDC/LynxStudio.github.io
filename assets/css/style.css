@@ -576,10 +576,10 @@ ul li:hover ui.dropdown{
 
 
  .ad-a{
-      width: 30%
-      display: block:
-      margin: 0px auto;
- }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 /*-----------------------------------*\
