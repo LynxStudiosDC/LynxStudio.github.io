@@ -575,7 +575,12 @@ ul li:hover ui.dropdown{
 }
 
 
-
+ .ad{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+ }
 
 
 /*-----------------------------------*\
