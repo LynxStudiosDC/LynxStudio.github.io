@@ -248,6 +248,7 @@ header .container {
                 
 }
 
+
 /*-----------------------------------*\
  * #navbar2
 \*-----------------------------------*/
@@ -260,6 +261,7 @@ header .container {
     background-color: #333;
     display: flex;
     justify-content: space-between
+}
 
 .navbar li {
     position: relative; /* Needed for dropdown */
@@ -303,13 +305,6 @@ header .container {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
-
-
-
-
-
-
 
 
 /*-----------------------------------*\
