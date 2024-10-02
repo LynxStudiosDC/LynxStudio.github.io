@@ -249,19 +249,7 @@ header .container {
 }
 
 
-ul li ui.dropdown {
-  width: auto;
-  background: #00ff8c;
-  position: absolute;
-  z-index: 999;
-  display: none;
-}
-ul li a:hover {
-   background: #222;
-}
-ul li:hover ui.dropdown{
-  display: block;
-}
+
 
 .navbar2 {
     list-style-type: none;
