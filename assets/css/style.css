@@ -263,6 +263,14 @@ ul li:hover ui.dropdown{
   display: block;
 }
 
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    display: flex;
+    justify-content: space-between
+
 .navbar li {
     position: relative; /* Needed for dropdown */
 }
@@ -278,7 +286,6 @@ ul li:hover ui.dropdown{
     background-color: #575757;
 }
 
-/* Dropdown menu styling */
 .dropdown-content {
     display: none; /* Hide by default */
     position: absolute;
@@ -303,7 +310,6 @@ ul li:hover ui.dropdown{
     background-color: #575757;
 }
 
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
 }
