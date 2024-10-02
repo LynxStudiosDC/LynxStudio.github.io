@@ -263,6 +263,50 @@ ul li:hover ui.dropdown{
   display: block;
 }
 
+.navbar li {
+    position: relative; /* Needed for dropdown */
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: #575757;
+}
+
+/* Dropdown menu styling */
+.dropdown-content {
+    display: none; /* Hide by default */
+    position: absolute;
+    background-color: #333;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content li {
+    list-style-type: none;
+}
+
+.dropdown-content li a {
+    padding: 12px 16px;
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content li a:hover {
+    background-color: #575757;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
 
 
 
